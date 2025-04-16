@@ -16,7 +16,7 @@ public class CellPhone{
         this.owner = "";
     }
 
-// Getter/Setter Methods
+ //Getter/Setter Methods
     public long getSerialNumber() {
         return serialNumber;
     }
