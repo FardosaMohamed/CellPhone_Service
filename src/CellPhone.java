@@ -7,7 +7,7 @@ public class CellPhone{
     String phoneNumber ;
     String owner;
 
-
+// A constructor
     public CellPhone(){
         this.serialNumber = 0;
         this.model = "";
@@ -16,7 +16,7 @@ public class CellPhone{
         this.owner = "";
     }
 
-
+// Getter/Setter Methods
     public long getSerialNumber() {
         return serialNumber;
     }
